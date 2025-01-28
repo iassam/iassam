@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Iassam, a full-time full-stack developer 👨‍💻 working since 2015 🚀</div>  
+## <div align="center">I'm Iassam, a full-time full-stack developer 👨‍💻 working since 2015 🚀</div>  
   
 
 - 🌱 I’m currently learning **Go lang**  
